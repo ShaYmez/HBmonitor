@@ -4,3 +4,4 @@ bitstring
 autobahn
 jinja2==2.11.3
 markupsafe==2.0.1
+attrs==22.2.0
